@@ -1,0 +1,19 @@
+{
+  "models": [
+    "Drehmaschine.zip",
+    "Heizung.zip",
+    "kocher1.zip",
+    "kocher2.zip",
+    "Logik.zip",
+    "Logik4.zip",
+    "Multiheizung.zip",
+    "PISO.zip",
+    "RaspiTest.zip",
+    "RR-EEPROM.zip",
+    "RR-Platine.zip",
+    "RR-ROM.zip",
+    "schleuse_mux.zip",
+    "schleuse_mux_s.zip",
+    "SoundDemo.zip"
+  ]
+}
